@@ -1,0 +1,25 @@
+  Revised: Thursday, August 01, 2019
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials         August 1,2019      12:33:48	Page1
+
+Item	Quantity	Reference	Part	price\Sum
+______________________________________________
+
+1	1	C1	270pF	\{sum}
+2	4	C2,C3,C4,C5	0.1uF	\{sum}
+3	1	C6	0.001uF	\{sum}
+4	1	J1	CON3	\{sum}
+5	1	J2	CON2	\{sum}
+6	8	R1,R2,R5,R7,R8,R9,R10,R11	10K	\{sum}
+7	1	R3	62K	\{sum}
+8	1	R4	100K	\{sum}
+9	4	U1,U2,U3,U4	LF351	\{sum}
+10	2	U5,U6	LM7812C	\{sum}
+11	1	VR1	1M	\{sum}

@@ -1,0 +1,52 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : OSCILLATOR.brd                                )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Thu Aug 01 10:20:55 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U4 / LF351_0_DIP8_3_LF351 / DIP8_3 at (2.973 77.593)
+         Placed symbol:  U3 / LF351_0_DIP8_3_LF351 / DIP8_3 at (13.336 77.593)
+         Placed symbol:  U2 / LF351_0_DIP8_3_LF351 / DIP8_3 at (23.699 77.593)
+         Placed symbol:  U1 / LF351_0_DIP8_3_LF351 / DIP8_3 at (34.062 77.593)
+         Placed symbol:  U6 / LM7812C_1_TO220AB_LM7812C / TO220AB at (46.051 71.599)
+         Placed symbol:  U5 / LM7812C_1_TO220AB_LM7812C / TO220AB at (57.126 71.599)
+         Placed symbol:  VR1 / POT_RESADJ_1M / RESADJ at (69.115 74.901)
+         Placed symbol:  J1 / CON3_JUMPER3_CON3 / JUMPER3 at (71.858 69.973)
+         Placed symbol:  C6 / C_CAP196_0.001UF / CAP196 at (81.205 69.973)
+         Placed symbol:  J2 / CON2_JUMPER2_CON2 / JUMPER2 at (85.472 69.973)
+         Placed symbol:  R1 / R_RES400_10K / RES400 at (91.339 69.884)
+         Placed symbol:  R10 / R_RES400_10K / RES400 at (94.666 69.884)
+         Placed symbol:  C4 / C_CAP196_0.1UF / CAP196 at (4.497 82.698)
+         Placed symbol:  R2 / R_RES400_10K / RES400 at (9.348 82.609)
+         Placed symbol:  R5 / R_RES400_10K / RES400 at (12.675 82.609)
+         Placed symbol:  R7 / R_RES400_10K / RES400 at (16.002 82.609)
+         Placed symbol:  R8 / R_RES400_10K / RES400 at (19.329 82.609)
+         Placed symbol:  R9 / R_RES400_10K / RES400 at (22.656 82.609)
+         Placed symbol:  R3 / R_RES400_62K / RES400 at (25.983 82.609)
+         Placed symbol:  R4 / R_RES400_100K / RES400 at (29.310 82.609)
+         Placed symbol:  C3 / C_CAP196_0.1UF / CAP196 at (33.577 82.698)
+         Placed symbol:  C2 / C_CAP196_0.1UF / CAP196 at (39.368 82.698)
+         Placed symbol:  C1 / C_CAP196_270PF / CAP196 at (45.159 82.698)
+         Placed symbol:  R11 / R_RES400_10K / RES400 at (50.010 82.609)
+         Placed symbol:  C5 / C_CAP196_0.1UF / CAP196 at (54.277 82.698)
+
+
+Placed 25 of 25 applicable (25 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+
+
+Placed 0 of 0 applicable (0 total) symbols.
+
+-----------------------------------------------------------------------
+

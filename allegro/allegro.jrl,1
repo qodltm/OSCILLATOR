@@ -1,0 +1,360 @@
+\t (00:00:34) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:34)     Journal start - Thu Aug 01 10:12:08 2019
+\t (00:00:34)         Host=CSWSUSUSU User=user Pid=6664 CPUs=4
+\t (00:00:34) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession user C:\USERS\USER\DESKTOP\WORK\OSCILLATOR\allegro\OSCILLATOR.brd
+\t (00:00:34) 
+   (00:00:34) Loading axlcore.cxt 
+\t (00:00:41) Opening existing design...
+\d (00:00:41) Design opened: C:/USERS/USER/DESKTOP/WORK/OSCILLATOR/allegro/OSCILLATOR.brd
+\i (00:00:42) trapsize 2476
+\i (00:00:42) trapsize 2560
+\i (00:00:42) trapsize 2914
+\i (00:00:43) trapsize 2786
+\i (00:00:43) generaledit 
+\i (00:00:51) board outline 
+   (00:00:52) Loading floor.cxt 
+   (00:00:52) Loading fputil.cxt 
+\i (00:00:53) setwindow form.fpbdoutline
+\i (00:00:53) FORM fpbdoutline cancel  
+\i (00:00:53) setwindow pcb
+\i (00:00:53) generaledit 
+\i (00:00:55) prmed 
+\i (00:00:56) setwindow form.prmedit
+\i (00:00:56) FORM prmedit display_plated_holes YES 
+\i (00:00:56) FORM prmedit display_backdrill_holes YES 
+\i (00:00:57) FORM prmedit display_non_plated_holes YES 
+\i (00:00:58) FORM prmedit display_thermal YES 
+\i (00:00:58) FORM prmedit display_fat_rats YES 
+\i (00:00:58) FORM prmedit waived_drc_on YES 
+\i (00:00:59) FORM prmedit via_labels YES 
+\i (00:00:59) FORM prmedit dp_driver_pins YES 
+\i (00:01:00) FORM prmedit secondary_step_model YES 
+\i (00:01:01) FORM prmedit design  
+\i (00:01:04) FORM prmedit x -50.000 
+\i (00:01:06) FORM prmedit y -50.000 
+\i (00:01:11) FORM prmedit size A4 
+\i (00:01:17) FORM prmedit done  
+\i (00:01:17) setwindow pcb
+\i (00:01:17) trapsize 1379
+\i (00:01:17) generaledit 
+\i (00:01:19) pick grid 231.006 22.668
+\t (00:01:19) last pick:  231.140 22.860
+\i (00:01:23) define grid 
+\t (00:01:23) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:01:23) generaledit 
+\i (00:01:27) setwindow form.grid
+\i (00:01:27) FORM grid non_etch non_etch_x_grids 0.5 
+\i (00:01:28) FORM grid non_etch non_etch_y_grids 0.5 
+\i (00:01:28) FORM grid done  
+\i (00:01:58) setwindow pcb
+\i (00:01:58) board outline 
+\i (00:02:04) setwindow form.fpbdoutline
+\i (00:02:04) FORM fpbdoutline fpboclearance '1.5 MM' 
+\i (00:02:04) FORM fpbdoutline fpboplacerect YES 
+\i (00:02:09) FORM fpbdoutline fpboplacewdt 100MM 
+\i (00:02:13) FORM fpbdoutline fpboplacehgt 70 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) pick 0 0 
+\t (00:02:20) last pick:  0.000 0.000
+\i (00:02:22) pick 0 0 
+\t (00:02:22) last pick:  0.000 0.000
+\i (00:02:27) prepopup 37.142 26.805
+\i (00:02:30) setwindow form.fpbdoutline
+\i (00:02:30) FORM fpbdoutline cancel  
+\i (00:02:30) setwindow pcb
+\i (00:02:30) generaledit 
+\i (00:02:32) prepopup 37.142 61.000
+\i (00:02:35) board outline 
+\i (00:02:36) setwindow form.fpbdoutline
+\i (00:02:36) FORM fpbdoutline fpboplacerect YES 
+\i (00:02:39) FORM fpbdoutline fpboclearance 1.5 
+\i (00:02:41) FORM fpbdoutline fpboplacewdt 100 
+\i (00:02:42) FORM fpbdoutline fpboplacehgt 70 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) pick 0 0 
+\t (00:02:46) last pick:  0.000 0.000
+\i (00:02:48) setwindow form.fpbdoutline
+\i (00:02:48) FORM fpbdoutline done  
+\i (00:02:48) setwindow pcb
+\i (00:02:48) generaledit 
+\i (00:03:04) done 
+\i (00:03:04) place manual 
+\i (00:03:04) FORM plc_manual placement_list 
+\i (00:03:04) FORM plc_manual categories Components by refdes 
+\i (00:03:04) trapsize 1379
+\i (00:03:05) setwindow form.plc_manual
+\i (00:03:05) FORM plc_manual advanced_settings  
+\i (00:03:06) FORM plc_manual library YES 
+\i (00:03:07) FORM plc_manual placement_list  
+\i (00:03:09) FORM plc_manual categories Mechanical symbols 
+\i (00:03:10) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\w (00:03:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:03:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:10) FORM plc_manual tree  MTG125 'Mechanical symbols' 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) pick grid -37.866 70.100
+\t (00:03:11) last pick:  -38.000 70.000
+\i (00:03:12) setwindow form.plc_manual
+\i (00:03:12) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) pick grid -39.521 58.794
+\t (00:03:13) last pick:  -39.500 59.000
+\i (00:03:14) setwindow form.plc_manual
+\i (00:03:14) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) pick grid -31.799 49.693
+\t (00:03:14) last pick:  -32.000 49.500
+\i (00:03:15) setwindow form.plc_manual
+\i (00:03:15) FORM plc_manual tree 'MULTISEL YES' MTG125 'Mechanical symbols' 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) pick grid -31.799 37.560
+\t (00:03:15) last pick:  -32.000 37.500
+\i (00:03:17) setwindow form.plc_manual
+\i (00:03:17) FORM plc_manual hide  
+\i (00:03:21) setwindow pcb
+\i (00:03:21) pick grid -31.799 35.629
+\t (00:03:21) last pick:  -32.000 35.500
+\t (00:03:21) last pick:  -32.000 37.500
+\i (00:03:24) pick 5 5 
+\t (00:03:24) last pick:  5.000 5.000
+\i (00:03:26) pick grid -31.248 47.763
+\t (00:03:26) last pick:  -31.000 48.000
+\t (00:03:26) last pick:  -32.000 49.500
+\i (00:03:31) pick 95 5 
+\t (00:03:31) last pick:  95.000 5.000
+\i (00:03:33) pick grid -39.521 59.621
+\t (00:03:33) last pick:  -39.500 59.500
+\t (00:03:33) last pick:  -39.500 59.000
+\i (00:03:37) pick 95 65 
+\t (00:03:37) last pick:  95.000 65.000
+\i (00:03:39) pick grid -40.348 68.170
+\t (00:03:39) last pick:  -40.500 68.000
+\t (00:03:39) last pick:  -38.000 70.000
+\i (00:03:43) pick 5 65 
+\t (00:03:43) last pick:  5.000 65.000
+\i (00:03:47) save 
+\i (00:03:49) fillin yes 
+\i (00:03:49) generaledit 
+\i (00:03:53) dimension edit 
+\i (00:03:54) prepopup 59.755 105.950
+\i (00:03:56) pop dyn_option_select '@:@Linear dimension' 
+\t (00:03:56) Pick an element or point to dimension ...
+\i (00:03:58) pick grid -0.914 70.651
+\t (00:03:58) last pick:  -1.000 70.500
+\t (00:03:58) First point found ... pick the second point.
+\i (00:04:00) pick grid 99.741 70.651
+\t (00:04:00) last pick:  99.500 70.500
+\t (00:04:00) Pick location for the dimension value.
+\i (00:04:03) pick grid 48.173 87.749
+\t (00:04:03) last pick:  48.000 87.500
+\t (00:04:03) Pick an element or point to dimension ...
+\i (00:04:05) pick grid 100.017 70.100
+\t (00:04:05) last pick:  100.000 70.000
+\t (00:04:05) Pick an element or point to dimension ...
+\t (00:04:05) First point found ... pick the second point.
+\i (00:04:07) pick grid 100.017 -0.220
+\t (00:04:07) last pick:  100.000 0.000
+\t (00:04:07) Pick location for the dimension value.
+\i (00:04:08) pick grid 116.011 34.802
+\t (00:04:08) last pick:  116.000 35.000
+\t (00:04:08) Pick an element or point to dimension ...
+\i (00:04:10) prepopup 149.103 57.690
+\i (00:04:11) done 
+\i (00:04:11) generaledit 
+\i (00:04:15) pick grid 28.869 112.844
+\t (00:04:15) last pick:  29.000 113.000
+\i (00:04:16) save 
+\i (00:04:17) fillin no 
+\i (00:05:08) fillin "OSCILLATOR1.brd"
+\i (00:05:09) xhilite 
+\i (00:05:09) xNet +12V 
+\i (00:05:09) xname_flush 
+\t (00:05:09) Net "+12V" highlighted.
+\i (00:05:09) done 
+\i (00:05:09) xdehilite 
+\i (00:05:09) xNet +12V 
+\i (00:05:09) xname_flush 
+\t (00:05:09) Net "+12V" dehighlighted.
+\i (00:05:09) done 
+\i (00:05:09) xhilite 
+\i (00:05:09) xrefdes U5.3 
+\t (00:05:09) Can not select unplaced component U5.
+\i (00:05:09) xname_flush 
+\i (00:05:09) done 
+\i (00:05:09) xdehilite 
+\i (00:05:09) xrefdes U5.3 
+\t (00:05:09) Can not select unplaced component U5.
+\i (00:05:09) xname_flush 
+\i (00:05:09) done 
+\i (00:05:09) xhilite 
+\i (00:05:09) xNet +12V 
+\i (00:05:09) xname_flush 
+\t (00:05:09) Net "+12V" highlighted.
+\i (00:05:09) done 
+\i (00:05:09) xdehilite 
+\i (00:05:09) xNet +12V 
+\i (00:05:09) xname_flush 
+\t (00:05:09) Net "+12V" dehighlighted.
+\i (00:05:09) done 
+\i (00:05:09) xhilite 
+\i (00:05:09) xrefdes U5 
+\t (00:05:09) Can not select unplaced component U5.
+\t (00:05:09) Can not select unplaced component U5.
+\i (00:05:09) xname_flush 
+\i (00:05:09) done 
+\i (00:05:09) xdehilite 
+\i (00:05:09) xrefdes U5 
+\t (00:05:09) Can not select unplaced component U5.
+\t (00:05:09) Can not select unplaced component U5.
+\i (00:05:09) xname_flush 
+\i (00:05:09) done 
+\i (00:05:09) xhilite 
+\i (00:05:09) xNet +12V 
+\i (00:05:09) xname_flush 
+\t (00:05:09) Net "+12V" highlighted.
+\i (00:05:10) done 
+\i (00:05:10) xdehilite 
+\i (00:05:10) xNet +12V 
+\i (00:05:10) xname_flush 
+\t (00:05:10) Net "+12V" dehighlighted.
+\i (00:05:10) done 
+\i (00:05:10) xhilite 
+\i (00:05:10) xNet +12V 
+\i (00:05:10) xname_flush 
+\t (00:05:10) Net "+12V" highlighted.
+\i (00:05:10) done 
+\i (00:05:10) xdehilite 
+\i (00:05:10) xNet +12V 
+\i (00:05:10) xname_flush 
+\t (00:05:10) Net "+12V" dehighlighted.
+\i (00:05:10) done 
+\i (00:05:10) generaledit 
+\i (00:05:16) pick grid 15.357 114.498
+\t (00:05:16) last pick:  15.500 114.500
+\i (00:05:33) quickplace 
+\i (00:05:36) setwindow form.quickplc
+\i (00:05:36) FORM quickplc place  
+\w (00:05:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:05:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:05:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:05:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:05:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:05:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\e (00:05:36) Component(s) could not be placed.  See logfile for errors.
+\i (00:05:37) FORM quickplc place  
+\e (00:05:37) Component(s) could not be placed.  See logfile for errors.
+\i (00:05:38) FORM quickplc done  
+\i (00:05:38) setwindow pcb
+\i (00:05:38) generaledit 
+\i (00:05:41) done 
+\i (00:05:41) place manual 
+\i (00:05:41) FORM plc_manual placement_list 
+\i (00:05:41) FORM plc_manual categories Components by refdes 
+\i (00:05:41) setwindow form.plc_manual
+\i (00:05:41) FORM plc_manual categories Components by refdes 
+\i (00:05:41) setwindow pcb
+\i (00:05:41) trapsize 1379
+\i (00:05:49) setwindow form.plc_manual
+\i (00:05:49) FORM plc_manual tree  U5 'Components by refdes' 
+\i (00:05:51) FORM plc_manual cancel  
+\i (00:05:51) setwindow pcb
+\i (00:05:51) generaledit 
+\i (00:06:29) xhilite 
+\i (00:06:29) xrefdes U5 
+\t (00:06:29) Can not select unplaced component U5.
+\t (00:06:29) Can not select unplaced component U5.
+\i (00:06:29) xname_flush 
+\i (00:06:29) done 
+\i (00:06:29) generaledit 
+\i (00:06:32) xdehilite 
+\i (00:06:32) xrefdes U5 
+\t (00:06:32) Can not select unplaced component U5.
+\t (00:06:32) Can not select unplaced component U5.
+\i (00:06:32) xname_flush 
+\i (00:06:32) done 
+\i (00:06:32) generaledit 
+\i (00:06:36) move 
+\t (00:06:36) Select element(s) to move.
+\i (00:06:37) drag_start grid -13.323 118.359
+\i (00:06:37) drag_stop 113.529 72.582
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:06:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\i (00:06:39) pick grid 33.281 75.891
+\t (00:06:39) last pick:  33.500 76.000
+\t (00:06:39) Moving U4 / LF351_0_DIP8_3_LF351 / DIP8_3.
+\t (00:06:39) Moving C2 / C_CAP196_0.1UF / CAP196.
+\t (00:06:39) Moving C3 / C_CAP196_0.1UF / CAP196.
+\t (00:06:39) Moving U3 / LF351_0_DIP8_3_LF351 / DIP8_3.
+\t (00:06:39) Moving U2 / LF351_0_DIP8_3_LF351 / DIP8_3.
+\t (00:06:39) Moving C6 / C_CAP196_0.001UF / CAP196.
+\t (00:06:39) Moving J2 / CON2_JUMPER2_CON2 / JUMPER2.
+\t (00:06:39) Moving R5 / R_RES400_10K / RES400.
+\t (00:06:39) Moving U1 / LF351_0_DIP8_3_LF351 / DIP8_3.
+\t (00:06:39) Moving C1 / C_CAP196_270PF / CAP196.
+\t (00:06:39) Moving J1 / CON3_JUMPER3_CON3 / JUMPER3.
+\t (00:06:39) Moving VR1 / POT_RESADJ_1M / RESADJ.
+\t (00:06:39) Moving R2 / R_RES400_10K / RES400.
+\t (00:06:39) Moving R10 / R_RES400_10K / RES400.
+\t (00:06:39) Moving R1 / R_RES400_10K / RES400.
+\t (00:06:39) Moving C5 / C_CAP196_0.1UF / CAP196.
+\t (00:06:39) Moving R11 / R_RES400_10K / RES400.
+\t (00:06:39) Moving R9 / R_RES400_10K / RES400.
+\t (00:06:39) Moving R7 / R_RES400_10K / RES400.
+\t (00:06:39) Moving C4 / C_CAP196_0.1UF / CAP196.
+\t (00:06:39) Moving R3 / R_RES400_62K / RES400.
+\t (00:06:39) Moving R8 / R_RES400_10K / RES400.
+\t (00:06:39) Moving R4 / R_RES400_100K / RES400.
+\t (00:06:39) Pick new location for the element(s).
+\i (00:06:39) pick grid 52.585 120.289
+\t (00:06:39) last pick:  52.500 120.500
+\i (00:06:42) delete 
+\i (00:06:42) pick grid -0.638 140.420
+\t (00:06:42) last pick:  -0.500 140.500
+\i (00:06:43) drag_start grid 0.189 141.799
+\i (00:06:43) drag_stop 131.178 101.262
+\i (00:06:43) pick grid 9.565 141.523
+\t (00:06:43) last pick:  9.500 141.500
+\i (00:06:46) prepopup 33.006 119.462
+\i (00:06:46) done 
+\i (00:06:47) generaledit 
+\i (00:06:48) pick grid 45.967 110.086
+\t (00:06:48) last pick:  46.000 110.000
+\i (00:06:49) save 
+\i (00:06:50) fillin yes 
+\i (00:06:51) generaledit 
+\i (00:08:29) exit 
+\t (00:08:30)     Journal end - Thu Aug 01 10:20:04 2019
